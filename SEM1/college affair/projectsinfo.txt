@@ -1,0 +1,19 @@
+1. Steinhofel, Kathleen 	
+(4)3D RNA Structure Prediction
+(6)Learning and Information Storage in Ageing Brains
+software and codes
+该项目将审查现有的 3D 预测工具，并开发允许结构预测和候选可视化的软件。
+2. Yannakoudakis, Helen
+(1)Multi-task learning for sequence labeling
+(2)Soft-label Prototype Word Sense Disambiguation
+GPU
+3. Cocarascu, Oana
+(3)Argumentation-based recommender systems
+Primary dataset: https://nijianmo.github.io/amazon/index.html
+4. Spratling, Michael
+(5)Fully Convolutional, Class Agnostic, Bounding Box Prediction
+(7)Applying HoughNet to Small Object Detection
+(8)Data Augmentations for Object Detection
+(10)Deep Metric Learning for Image Patch Matching
+5. Ibrahim, Zina
+(9)Explainable Predictive Frameworks from Medical Time Series.
